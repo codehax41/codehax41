@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-A growing Data Science practitioner changing physically, searching for ways to attain complete mastery of my discipline. I aspire for a challenging position in a professional organization where I can enhance my professional skills with applied statistics and visualization also Passionate about building models that fix problems now eager to apply the same knowledge to real-world business problems.
+A growing Data Science practitioner changing physically, searching for ways to attain complete mastery of my discipline. Passionate about building models that fix problems now eager to apply the same knowledge to real-world business problems.
 
-Currently working at Capgemini as a Data Scientist. I'd love to collaborate and work on projects on business related NLP, ML, DL problems.
+Currently working at Thoucentric as a Data Scientist. I'd love to collaborate and work on projects on business related NLP, ML, DL problems.
 
 <!--
 **codehax41/codehax41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
