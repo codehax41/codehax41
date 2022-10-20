@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```md
+[![GitHub Streak](https://streak-stats.demolab.com?user=codehax41&theme=omni)](https://git.io/streak-stats)
+```
+
 I'm a growing Data Science practitioner changing physically, searching for ways to attain complete mastery of my discipline. Passionate about building models that fix problems now eager to apply the same knowledge to real-world business problems.
 
 Currently working at Thoucentric as a Data Scientist. I'd love to collaborate and work on projects on business related NLP, ML, DL problems.
