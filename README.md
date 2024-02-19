@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&random=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi+there!+%F0%9F%91%8B+I'm+Ram+;Rocking+Data+Scientist+with+an+M.Sc+in+Machine+Learning+from+IIIT BLR.;Currently+working+as+an+AI+Wizard+at+Thoucentric!+;%F0%9F%9A%80+Let's+team+up+for+some+creative+content+collaborations.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+%F0%9F%91%8B+Ramsundar+Mahato%2C+Data+Scientist+with+an+MSc+in+Statistical+Computing+from+IIIT+Bangalore%E2%9A%A1%E2%9A%A1;Let's+create+magical+content+collaborations.+%F0%9F%94%AE;Unraveling+complex+data+patterns+and+weaving+predictive+enchantments+is+my+delight.+" alt="Typing SVG" /></a>
+
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
