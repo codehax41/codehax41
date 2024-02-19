@@ -40,8 +40,6 @@
 # Analytics ⚙️
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=highcontrast&preferLogin=false">    <img  alt="codehax41's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/codehax41?cardType=github&theme=highcontrast&preferLogin=false" />  </a>
-- Disclaimer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
-
 
  </p> <h3 align="left">
  
@@ -50,9 +48,7 @@
 [![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
 [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linkedin.com/in/codehax41/) &emsp;
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/NVIDIA-%20GEFORCE%20GTX%201660ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
 [![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
 [![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
