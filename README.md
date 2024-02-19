@@ -2,11 +2,14 @@
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
-      <li>Hi 👋 I'm <b>Ramsundar Mahato</b>, a Data Scientist with an MSc in Statistical Computing from IIIT Bangalore⚡⚡.</li>
-      <li>Currently rocking as an AI Wizard at Thoucentric! 🚀 Let's team up for some creative content collaborations.</li>
-      <li>💡 Fun fact: I enjoy unraveling complex data patterns and building robust predictive models.</li>
-      <li>I love learning new stuff and sharing knowledge! 📈</li>
-      <li>📧 Reach out in a flash: <b>rammahato@example.com</b> 🚀</li>
+      <li>Hey there! 👋 I'm <b>Ramsundar Mahato</b>, a Data Scientist with a Mystical MSc in Statistical Computing from IIIT Bangalore⚡⚡.</li>
+      <li>Currently brewing potions as an AI Wizard at Thoucentric! ✨ Let's conjure up some magical content collaborations. 🔮</li>
+      <li>💡 Fun spell: I delight in unraveling the weaves of complex data patterns and weaving robust predictive enchantments. 🧙</li>
+      <li>I am constantly exploring new realms of knowledge and sharing my wisdom! 📚</li>
+      <li>📧 Holler at me in a flash: <b>ramsundar.1238@gmail.com</b> 📬🚀</li>
+    </ul>
+  </div>
+</div>
     </ul>
   </div>
 </div>
@@ -31,19 +34,12 @@
  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Me+Website" /> 
   </a>
 
- <img src="https://komarev.com/ghpvc/?username=owaiskhan9654&color=18A558&label=Profile+views" alt="Profile Views" /> 
-
-  
 </p>
 
 # Analytics ⚙️
 
-
- 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/owaiskhan9654?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
-   
-   
-- Disclamer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/codehax41?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
+- Disclaimer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
 
 
  </p> <h3 align="left">
@@ -78,10 +74,7 @@
 
 
 
-
-
 ### Hi there 👋
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=codehax41&theme=omni)](https://git.io/streak-stats)
 
