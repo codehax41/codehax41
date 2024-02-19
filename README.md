@@ -38,7 +38,7 @@
 
 # Analytics ⚙️
 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/codehax41?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=highcontrast&preferLogin=false">    <img  alt="codehax41's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/codehax41?cardType=github&theme=highcontrast&preferLogin=false" />  </a>
 - Disclaimer - Above total stars are aggregated sum of big repositories I have contributed to ✌️✊. Click on it to get more info about the source.
 
 
