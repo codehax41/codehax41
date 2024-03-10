@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+%F0%9F%91%8B+I'm Ramsundar+Mahato%2C+Data+Scientist+with+an+MSc+in+Statistical+Computing+from+IIIT+Bangalore%E2%9A%A1%E2%9A%A1;Let's+create+magical+content+collaborations.+%F0%9F%94%AE;Unraveling+complex+data+patterns+and+weaving+predictive+enchantments+is+my+delight.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+%F0%9F%91%8B+I'm Ram.%2C+Data+Scientist+with+an+MSc+in+Statistical+Computing+from+IIIT+Bangalore%E2%9A%A1%E2%9A%A1;Let's+create+magical+content+collaborations.+%F0%9F%94%AE;Unraveling+complex+data+patterns+and+weaving+predictive+enchantments+is+my+delight.+" alt="Typing SVG" /></a>
 
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
