@@ -1,32 +1,97 @@
-<h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+%F0%9F%91%8B+I'm Ramsundar+Mahato%2C+Data+Scientist+with+an+MSc+in+Statistical+Computing+from+IIIT+Bangalore%E2%9A%A1%E2%9A%A1;Let's+create+magical+content+collaborations.+%F0%9F%94%AE;Unraveling+complex+data+patterns+and+weaving+predictive+enchantments+is+my+delight.+" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codehax41&label=Profile%20views&color=0e75b6&style=flat" alt="codehax41" /> </p>
+<div style="display: flex; flex-direction: column;">
+  <div style="flex: 1; margin-right: 10px;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>Hey there! 👋 I'm <b>Ramsundar Mahato</b>, a Data Scientist with a Mystical MSc in Statistical Computing from IIIT Bangalore⚡⚡.</li>
+      <li>Currently brewing potions as an AI Wizard at Thoucentric! ✨ Let's conjure up some magical content collaborations. 🔮</li>
+      <li>💡 Fun spell: I delight in unraveling the weaves of complex data patterns and weaving robust predictive enchantments. 🧙</li>
+      <li>I am constantly exploring new realms of knowledge and sharing my wisdom! 📚</li>
+      <li>📧 Holler at me in a flash: <b>ramsundar.1238@gmail.com</b> 📬🚀</li>
+    </ul>
+  </div>
+</div>
+    </ul>
+  </div>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codehax41" alt="codehax41" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/codehax41](github.com/codehax41)
+<h2 align="left">
+</h2> 
 
-- 💬 Ask me about **I'm a growing Data Science practitioner changing physically, searching for ways to attain complete mastery of my discipline. Passionate about building models that fix problems now eager to apply the same knowledge to real-world business problems. Currently working at Thoucentric as a Data Scientist. I'd love to collaborate and work on projects on business related NLP, ML, DL problems.**
+  <a href="mailto:ramsundar.1238@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:owaiskhan9654@gmail.com"/>
+  </a>
+  
+  <a href="https://github.com/codehax41" style="color: inherit; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Owaiskhan9654" alt="GitHub badge" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/codehax41/" style="color: inherit; text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owaiskhan9654/" alt="LinkedIn" />
+  </a>
 
-- 📫 How to reach me **ramsundar.1238@gmail.com**
+    <a href="https://codehax41.github.io/" style="color: inherit; text-decoration: none;">
+ <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Me+Website" /> 
+  </a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_TRHK7nE-XqBU_pnDt5aajw-rN4ImSfO/view?usp=sharing](https://drive.google.com/file/d/1_TRHK7nE-XqBU_pnDt5aajw-rN4ImSfO/view?usp=sharing)
-
-- ⚡ Fun fact **I delight in unraveling the weaves of complex data patterns and weaving robust predictive enchantments.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/codehax41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/codehax41/" height="30" width="40" /></a>
-<a href="https://kaggle.com/codehax41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="codehax41" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techentertaining" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techentertaining" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# Analytics ⚙️
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codehax41&show_icons=true&locale=en&layout=compact" alt="codehax41" /></p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=highcontrast&preferLogin=false">    <img  alt="codehax41's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/codehax41?cardType=github&theme=highcontrast&preferLogin=false" />  </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codehax41&show_icons=true&locale=en" alt="codehax41" /></p>
+ </p> <h3 align="left">
+ 
+ Languages and Tools:
+ 
+[![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=Spyder&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
+<a href="https://www.linkedin.com/in/codehax41"/><img src="https://user-images.githubusercontent.com/47840160/196059938-8265ccfa-fce7-43b7-9d3f-83fe49810f13.png" height=30 width=55></img></a>
+<a href="https://www.linkedin.com/in/codehax41"/><img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" height=30 width=55></img></a>
+<a href="https://www.linkedin.com/in/codehax41"/><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"></img></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codehax41&" alt="codehax41" /></p>
+
+
+
+### Hi there 👋
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codehax41&theme=omni)](https://git.io/streak-stats)
+
+I'm a growing Data Science practitioner changing physically, searching for ways to attain complete mastery of my discipline. Passionate about building models that fix problems now eager to apply the same knowledge to real-world business problems.
+
+Currently working at Thoucentric as a Data Scientist. I'd love to collaborate and work on projects on business related NLP, ML, DL problems.
+
+<!--
+**codehax41/codehax41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... Personal Assistant using NLP
+- 🌱 I’m currently learning ... So many things.
+- 👯 I’m looking to collaborate for DS related work.
+- 🤔 I’m looking for help with ... ML, DL and NLP.
+- 💬 Ask me about ... jokes!
+- 📫 How to reach me: ... mailtto:ramsundar.1238@gmail.com
+- ⚡ Fun fact: ... kind hearted!
+-->
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=codehax41)
+
