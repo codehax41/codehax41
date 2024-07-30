@@ -7,7 +7,6 @@
       <li>Currently brewing potions as an AI Wizard at Thoucentric! ✨ Let's conjure up some magical content collaborations. 🔮</li>
       <li>💡 Fun spell: I delight in unraveling the weaves of complex data patterns and weaving robust predictive enchantments. 🧙</li>
       <li>I am constantly exploring new realms of knowledge and sharing my wisdom! 📚</li>
-      <li>📧 Holler at me in a flash: <b>ramsundar.1238@gmail.com</b> 📬🚀</li>
     </ul>
   </div>
 </div>
