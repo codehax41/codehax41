@@ -3,7 +3,7 @@
 <div style="display: flex; flex-direction: column;">
   <div style="flex: 1; margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0;">
-      <li>Hey there! 👋 I'm <b>Ramsundar Mahato</b>, a Data Scientist with a Mystical MSc in Statistical Computing from IIIT Bangalore⚡⚡.</li>
+      <li>Hey there! 👋 I'm <b>Ram</b>, a Data Scientist with a Mystical MSc in Statistical Computing from IIIT Bangalore⚡⚡.</li>
       <li>Currently brewing potions as an AI Wizard at Thoucentric! ✨ Let's conjure up some magical content collaborations. 🔮</li>
       <li>💡 Fun spell: I delight in unraveling the weaves of complex data patterns and weaving robust predictive enchantments. 🧙</li>
       <li>I am constantly exploring new realms of knowledge and sharing my wisdom! 📚</li>
