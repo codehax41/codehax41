@@ -1,96 +1,74 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+%F0%9F%91%8B+I'm Ram%2C+Data+Scientist+with+an+MSc+in+Statistical+Computing+from+IIIT+Bangalore%E2%9A%A1%E2%9A%A1;Let's+create+magical+content+collaborations.+%F0%9F%94%AE;Unraveling+complex+data+patterns+and+weaving+predictive+enchantments+is+my+delight.+" alt="Typing SVG" /></a>
+<h1> Hi, I'm Ram 👋 </h1>
 
-<div style="display: flex; flex-direction: column;">
-  <div style="flex: 1; margin-right: 10px;">
-    <ul style="list-style-type: none; padding: 0;">
-      <li>Hey there! 👋 I'm <b>Ram</b>, a Data Scientist with a Mystical MSc in Statistical Computing from IIIT Bangalore⚡⚡.</li>
-      <li>Currently brewing potions as an AI Wizard at Thoucentric! ✨ Let's conjure up some magical content collaborations. 🔮</li>
-      <li>💡 Fun spell: I delight in unraveling the weaves of complex data patterns and weaving robust predictive enchantments. 🧙</li>
-      <li>I am constantly exploring new realms of knowledge and sharing my wisdom! 📚</li>
-    </ul>
-  </div>
-</div>
-    </ul>
-  </div>
-</div>
+I build practical **AI systems, agentic workflows, and data-driven solutions** that developers and teams can use right away.
 
+My work spans **Data Science, Statistical Computing, Generative AI, ML/DL**, and hands-on engineering — from building multi-agent LangGraph apps to deploying production-grade forecasting, NLP, and predictive models.
 
-<h2 align="left">
-</h2> 
+I also teach through **webinars, courses, and YouTube content**, simplifying ML/LLMs for beginners and practitioners.
 
-  <a href="mailto:ramsundar.1238@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:owaiskhan9654@gmail.com"/>
-  </a>
-  
-  <a href="https://github.com/codehax41" style="color: inherit; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Owaiskhan9654" alt="GitHub badge" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/codehax41/" style="color: inherit; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owaiskhan9654/" alt="LinkedIn" />
-  </a>
+## 🚀 What I Work On
 
-    <a href="https://codehax41.github.io/" style="color: inherit; text-decoration: none;">
- <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Me+Website" /> 
-  </a>
+- 🧠 **AI Agents & Automation** — orchestrators, tool-calling agents, LangGraph pipelines, local + cloud LLM agent apps  
+- 🔍 **Search & RAG Systems** — embeddings, hybrid search, ChromaDB, document intelligence  
+- 📦 **Ready-to-run Projects** — clone → install → run examples for agents, RAG, phishing detection, and data apps  
+- 🧪 **Fine-Tuning Experiments** — DistilBERT, MiniLM, TinyLlama, T5, ELECTRA, URLNet  
+- ⚙️ **MLOps & Engineering** — W&B, PyTorch Lightning, FastAPI, Streamlit  
+- 💬 **Teaching & Webinars** — ML/AI foundations, agentic workflows, hands-on demos  
 
-</p>
+### 📊 Machine Learning & Data Science Focus
 
-# Analytics ⚙️
+- 📊 **ML & Deep Learning** — production-ready models for business applications  
+- 🔍 **Statistical Computing** — advanced statistical modeling & pattern discovery  
+- 🧠 **NLP for Business Use-Cases** — classification, extraction, summarization  
+- 🛠️ **End-to-End ML Pipelines** — preprocessing → training → evaluation → deployment  
+- 📈 **Predictive Analytics** — forecasting, scoring systems, classification pipelines  
+- 🎯 **Real-World Problem Solving** — turning research & models into business value  
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=highcontrast&preferLogin=false">    <img  alt="codehax41's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/codehax41?cardType=github&theme=highcontrast&preferLogin=false" />  </a>
+## <h2> About Me </h2>
 
- </p> <h3 align="left">
- 
- Languages and Tools:
- 
-[![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=Spyder&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/OpenCV-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.linkedin.com/in/codehax41/) &emsp;
-<a href="https://www.linkedin.com/in/codehax41"/><img src="https://user-images.githubusercontent.com/47840160/196059938-8265ccfa-fce7-43b7-9d3f-83fe49810f13.png" height=30 width=55></img></a>
-<a href="https://www.linkedin.com/in/codehax41"/><img src="https://raw.githubusercontent.com/huggingface/awesome-huggingface/main/logo.svg" height=30 width=55></img></a>
-<a href="https://www.linkedin.com/in/codehax41"/><img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"></img></a>
+- 🎓 MSc in **Statistical Computing** from **IIIT Bangalore** — strong grounding in stats + computation  
+- 💼 **Data Scientist at Thoucentric** — solving complex business challenges with AI/ML  
+- 🧩 Currently building: multi-agent AI apps, phishing detection model zoo, RAG apps, and analytics tools  
+- 🔭 Always exploring new realms of **ML, LLMs, agents, statistical modeling, and data engineering**  
+- 💡 Open to collaborating on **NLP, ML, DL, and business-focused AI projects**  
 
+---
 
+## 🌐 Connect with Me
 
+<a href="mailto:ramsundar.1238@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Hi there 👋
+<a href="https://github.com/codehax41">
+  <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codehax41&theme=omni)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/codehax41/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
 
-I'm a growing Data Science practitioner changing physically, searching for ways to attain complete mastery of my discipline. Passionate about building models that fix problems now eager to apply the same knowledge to real-world business problems.
+<a href="https://codehax41.github.io/">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
 
-Currently working at Thoucentric as a Data Scientist. I'd love to collaborate and work on projects on business related NLP, ML, DL problems.
+---
 
-<!--
-**codehax41/codehax41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages & Tools I Use
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Personal Assistant using NLP
-- 🌱 I’m currently learning ... So many things.
-- 👯 I’m looking to collaborate for DS related work.
-- 🤔 I’m looking for help with ... ML, DL and NLP.
-- 💬 Ask me about ... jokes!
-- 📫 How to reach me: ... mailtto:ramsundar.1238@gmail.com
-- ⚡ Fun fact: ... kind hearted!
--->
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=codehax41)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
