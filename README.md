@@ -27,7 +27,7 @@ I also teach through **webinars, courses, and YouTube content**, simplifying ML/
 ## <h2> About Me </h2>
 
 - 🎓 MSc in **Statistical Computing** from **IIIT Bangalore** — strong grounding in stats + computation  
-- 💼 **Data Scientist at Thoucentric** — solving complex business challenges with AI/ML  
+- 💼 **Data Scientist at Genpact** — solving complex business challenges with Agentic AI
 - 🧩 Currently building: multi-agent AI apps, phishing detection model zoo, RAG apps, and analytics tools  
 - 🔭 Always exploring new realms of **ML, LLMs, agents, statistical modeling, and data engineering**  
 - 💡 Open to collaborating on **NLP, ML, DL, and business-focused AI projects**  
